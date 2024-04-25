@@ -1,0 +1,7 @@
+Dear [NAME],
+
+It's your birthday! You are now [AGE] Have a great day!
+
+All my love,
+
+Raul
